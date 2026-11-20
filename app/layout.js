@@ -1,7 +1,9 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Desmineralizar",
+  title: "Em Construção | TabNews",
+  description:
+    "Estamos neste momento reconstruindo o TabNews, um lugar na internet para quem trabalha com tecnologia e precisa consumir conteúdos com valor concreto.",
 };
 
 export default function RootLayout({ children }) {
